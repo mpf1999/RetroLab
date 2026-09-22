@@ -1,0 +1,11 @@
+[33mcommit 1cf8e56ea9c97c4ecd986da1c624361df5947ce7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33msprint-1-backend[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: mpf1999 <mperezferia@uoc.edu>
+Date:   Fri Jul 3 23:25:26 2026 +0900
+
+    Implement backend core with CRUD, DTOs, validation, exception handling and business rules
+
+[33mcommit 77184528c74b0683b5196483e3e67a0572b9f5a2[m
+Author: mpf1999 <mperezferia@uoc.edu>
+Date:   Fri Jul 3 20:23:32 2026 +0900
+
+    Initial backend implementation with Spring Boot, JPA, DTOs and validation
