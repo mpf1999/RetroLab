@@ -33,9 +33,9 @@ const char* WIFI_PASSWORD = "YOUR_PASSWORD";
 // CHANGE THIS, check IPv4 --> CMD and ipconfig
 const char* API_BASE_URL = "YOUR_URL";
 
-// CHANGE THIS, this is the same as in your.env
-const char* API_EMAIL = "YOUR_ADMIN_EMAIL";
-const char* API_PASSWORD = "YOUR_ADMIN_PASSWORD";
+// CHANGE THIS, this is the same as in your.env or the data of a created user
+const char* API_EMAIL = "YOUR_USER_EMAIL";
+const char* API_PASSWORD = "YOUR_USER_PASSWORD";
 
 // JWT returned by backend, automatically do not need to input
 String jwtToken = "";
